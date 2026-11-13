@@ -1,0 +1,1 @@
+__pycache__/\n*.py[cod]\n.env\n.venv/\nvenv/\ndb.sqlite3\n*.log\nnode_modules/\n.dart_tool/\n
